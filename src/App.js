@@ -139,7 +139,7 @@ export default function App() {
 													}}
 													color={'red'}
 													variant={'transparent'}>
-                                                    <CloseButton/>
+                                                    <CloseButton color='red'/>
 												</ActionIcon>
 											</Group>
 											<Text color={'dimmed'} size={'md'} mt={'sm'}>
